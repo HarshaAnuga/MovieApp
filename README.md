@@ -1,13 +1,13 @@
 # ⚙️ Tech Stack
 
-##Appwrite 
+## Appwrite 
 
-##React.js 
+## React.js 
 
-##React-use 
+## React-use 
 
-##Tailwind CSS 
+## Tailwind CSS 
 
-##Vite 
+## Vite 
 
 
